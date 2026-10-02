@@ -1,2 +1,3 @@
 # gcp-arxiv-ocr-pipeline
 　このリポジトリは、arxivの論文を定期的に収集し、最新の話題がどのようなものなのかを可視化するために使用されます。
+![alt text](image.png)
